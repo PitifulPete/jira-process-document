@@ -1,5 +1,5 @@
 # Process document 
-A company that wanted to hire me requested that i create a process document explaining how i will document a newly created feature for one of Atlassian's software products. I created and submitted the document, but i thought it was a fun project so i decided to make it a proper organizational process document. 
+A company that wanted to hire me requested that i create a process document explaining how i would document a newly created feature for one of Atlassian's software products. I created and submitted the document, but i thought it was a fun project so i decided to make it a proper organizational process document. 
 ## Overview 
 This document explains the process for creating a clear and concise user guide on how to use a new Jira software feature. It includes the process of collecting information about the feature, documenting the feature, and formatting the document.
 ## How to collect information about a new Jira feature
